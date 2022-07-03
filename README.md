@@ -4,9 +4,6 @@
 
 - 🌱 I’m currently learning **Node.js and Typescript**
 
-- ⚡ Fun fact **I hate Bootstrap**
-
-
 <div align="center">
   <a href="https://github.com/orafaelmiguel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=orafaelmiguel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
