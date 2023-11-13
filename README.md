@@ -1,6 +1,6 @@
 ### 
 <h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">Computer Science student>
+<h3 align="center">Computer Science student
 
 
 <p  align="center">
