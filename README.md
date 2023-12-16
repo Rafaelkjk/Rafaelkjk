@@ -8,11 +8,11 @@ Currently studying Computer Science.
 </p>
 
 <p align="left">
-  🦄 Techs: *JavaScript, HTML, CSS, TypeScript, Node.js, Express, NestJs, PrismaORM, PostgreSQL, SQLite, MongoDB and Docker.*
+  🦄 Techs: JavaScript, HTML, CSS, TypeScript, Node.js, Express, NestJs, PrismaORM, PostgreSQL, SQLite, MongoDB and Docker.
 </p>
 
 <p align="left">
-  💼 Tools: *Visual Studio Code, Vercel, Git and Github.*
+  💼 Tools: Visual Studio Code, Vercel, Git and Github.
 </p>
 
 <p align="left">
