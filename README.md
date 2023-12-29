@@ -12,7 +12,7 @@ Currently studying Computer Science.
 </p>
 
 <p align="left">
-  💼 Tools: Visual Studio Code, Vercel, Git and Github.
+  💼 Tools: Visual Studio, Visual Studio Code, Vercel, Git and Github.
 </p>
 
 <p align="left">
