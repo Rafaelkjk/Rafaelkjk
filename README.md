@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-Hello, my name is Rafael. I am a Back-End Web Developer.
+Hello, my name is Rafael. I am a Full-Stack Web Developer.
 </p>
 <p align="left">
-Currently studying Computer Science.
+Currently studying computer science at university.
 </p>
 
 <p align="left">
