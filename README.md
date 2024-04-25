@@ -8,7 +8,7 @@ Currently studying computer science at university.
 </p>
 
 <p align="left">
-  🦄 Techs: .NET, C#, JavaScript, HTML, CSS, TypeScript, Node.js, Express, NestJs, PrismaORM, SQL Server, PostgreSQL, SQLite, MongoDB and Docker.
+  🦄 Techs: .NET, C#, JavaScript, HTML, CSS, TypeScript, Node.js, Express, Fastify, NestJs, React.js, Next.js, Redis, PrismaORM, SQL Server, PostgreSQL, SQLite, MongoDB and Docker.
 </p>
 
 <p align="left">
